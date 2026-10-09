@@ -1,8 +1,6 @@
 # Task 3 – Data Cleaning
 
-## Oasis Infobyte Data Analytics Internship
-
-### Project Overview
+## Project Overview
 
 This project focuses on cleaning and preparing a cafe sales dataset for further analysis. The dataset contained missing values, invalid entries, duplicate records, inconsistent data types, and other data quality issues.
 
