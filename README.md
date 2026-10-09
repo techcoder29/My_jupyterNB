@@ -16,3 +16,4 @@ This repository contains all the projects completed using Jupyter notebook
 - Matplot
 - Numpy
 - Kaggle
+- SeaBorn
